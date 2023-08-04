@@ -42,7 +42,7 @@
 
 ---
 
-##### **백준** 현황 입니다!
+##### **백준** 현황입니다!
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zanke27)](https://solved.ac/zanke27/)
