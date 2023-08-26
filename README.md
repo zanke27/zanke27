@@ -7,7 +7,8 @@
 
 <br>
 
-저는 하나의 **게이머**로써 제가 느꼈던 <span style='background-color:#fff5b1'>**즐거움**</span>을 나누는 게임을 만드는,  
+저는 하나의 **게이머**로써 제가 느꼈던 <span style='background-color:#fff5b1'>**즐거움**</span>을 나누는 게임을 만드는,
+
 그런 <span style='background-color:#f1f8ff'>**재미있는 게임**</span>을 만드는 <span style='background-color:#f1f8ff'>**개발자**</span>가 되고 싶습니다.  
 
 <br>
